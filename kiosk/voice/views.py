@@ -1,8 +1,8 @@
 from django.shortcuts import render
 from django.views.generic import TemplateView
-import pandas as pd
-import re
-from nltk.corpus import stopwords
+#import pandas as pd
+#import re
+#from nltk.corpus import stopwords
 import os
 from django.views.decorators.http import require_http_methods
 # Create your views here.
